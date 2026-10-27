@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "why-urls-matter",
+    "title": "Why URLs Matter",
+    "excerpt": "A web address can remember which page you are viewing.",
+    "body": "URLs make pages easy to revisit, refresh, and share with other people.",
+    "publishedAt": "2026-10-20",
+    "tags": ["web", "routing"]
+  },
+  {
+    "slug": "meet-react-router",
+    "title": "Meet React Router",
+    "excerpt": "React Router connects web addresses to pages.",
+    "body": "A router looks at the current address and helps the app show the matching page.",
+    "publishedAt": "2026-10-18",
+    "tags": ["react", "routing"]
+  },
+  {
+    "slug": "building-with-vite",
+    "title": "Building with Vite",
+    "excerpt": "Vite helps you build and run a web project.",
+    "body": "Vite gives developers a quick way to start a project and see their changes.",
+    "publishedAt": "2026-10-15",
+    "tags": ["vite", "tools"]
+  },
+  {
+    "slug": "first-react-page",
+    "title": "Your First React Page",
+    "excerpt": "A React component describes part of the page.",
+    "body": "You can build a page from small components, such as a heading, menu, and post card.",
+    "publishedAt": "2026-10-12",
+    "tags": ["react", "beginner"]
+  },
+  {
+    "slug": "shareable-filters",
+    "title": "Shareable Filters",
+    "excerpt": "Search values in the URL can remember a selected filter.",
+    "body": "A URL such as /posts?tag=react can open the posts page with the React tag selected.",
+    "publishedAt": "2026-10-10",
+    "tags": ["routing", "react"]
+  }
+]
